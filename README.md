@@ -1,16 +1,36 @@
-#### Atividades de algoritmos
+## Atividades de algoritmos
 
 ### Antes de Desenvolver
 Fazer o clone deste repositório no github(HTTPS ou SSH):
+
 HTTPS: `https://github.com/GabrielAraujoNeves/atividades.git`
+
 SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 
-+Rodar `npm install` no diratório do projeto.
-+Instalar `mocha` `chai` para rodar os testes.
-+Instalar `nyc` e configurar para conseguir visualizar a cobertura de testes.
+#### Em seguida
+
++ Rodar `npm install` no diratório do projeto.
+
++ Instalar `mocha` `chai` para rodar os testes.
+
++ Instalar `nyc` e configurar para conseguir visualizar a cobertura de testes.
+
++ Mudar para uma nova branch com o comando `git checkout -b 'resolusao'`
+
 
 OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: somaDeNumeros.js, encontraMaiorNumero.js)
 e todos eles devem ser exportados e importador para `main.js` para serem chamados na função `main()` que deverar controlar todas as chamadas usando controle de fluxo(`swich-case`)
+
+### Durante o Desenvolvimento
+
+Para manter o trabalho seguro lembre de fazer commits regulares a cada algoritmo completo e a cada teste escrito. O commit deve ser escrito com o que foi feito.
+
+#### Para commit
++ git add .
++ git commit -m 'descrever o que foi feito'
++ git push (na primeira vez que der o comando push, pode usar o `git push -u origin main` para registar o push e depois poder simplificar só com 'git push'
+
+OBS: Commits reguilares e descritivos serão cobrados para mander as boas práticas de desenvolvimento
 
 ### Testes
 
@@ -168,4 +188,4 @@ Saída esperada:
   { nome: "Ana", idade: 35 }
 ]
 ```
-#### Tenha um bom teste
+## Tenha um bom teste, entrega 30/07.
