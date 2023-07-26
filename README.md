@@ -11,9 +11,9 @@ SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 
 + Rodar `npm install` no diratório do projeto.
 
-+ Instalar `mocha` `chai` para rodar os testes.
++ Instalar `mocha` `chai` para rodar os testes(`npm install mocha`, `npm install chai`).
 
-+ Instalar `nyc` e configurar para conseguir visualizar a cobertura de testes.
++ Instalar `nyc` e configurar para conseguir visualizar a cobertura de testes(`npm install nyc`).
 
 + Mudar para uma nova branch com o comando `git checkout -b 'resolusao'`
 
