@@ -19,6 +19,8 @@ SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 
   OBS: Criar uma branch nova para cada resolução usando como base o comando acima(Ex: `git checkout -b resolução-01`, `git checkout -b resolução-02`, `git checkout -b resolução-03`...)
 
++ Criar novo Pull Request(PR) a cada resolução de desafio para fazer code review.
+
 
 OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: somaDeNumeros.js, encontraMaiorNumero.js)
 e todos eles devem ser exportados e importador para `main.js` para serem chamados na função `main()` que deverar controlar todas as chamadas usando controle de fluxo(`swich-case`)
@@ -31,6 +33,7 @@ Para manter o trabalho seguro lembre de fazer commits regulares a cada algoritmo
 + git add .
 + git commit -m 'descrever o que foi feito'
 + git push (na primeira vez que der o comando push, pode usar o `git push -u origin "nome da branch"` para registar o push e depois poder simplificar só com 'git push'
++ Ir no repositório no gitHub e criar o Pull Request(PR)
 
 OBS: Commits reguilares e descritivos serão cobrados para mander as boas práticas de desenvolvimento
 
