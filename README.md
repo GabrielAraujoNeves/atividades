@@ -17,6 +17,8 @@ SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 
 + Mudar para uma nova branch com o comando `git checkout -b 'resolucao'`
 
+  OBS: Criar uma branch nova para cada resolução usando como base o comando acima(Ex: `git checkout -b resolução-01`, `git checkout -b resolução-02`, `git checkout -b resolução-03`...)
+
 
 OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: somaDeNumeros.js, encontraMaiorNumero.js)
 e todos eles devem ser exportados e importador para `main.js` para serem chamados na função `main()` que deverar controlar todas as chamadas usando controle de fluxo(`swich-case`)
