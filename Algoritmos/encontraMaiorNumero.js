@@ -1,6 +1,6 @@
 function encontrarMaiorNumero(array){
     if(array.length === 0){
-        return undefined; // retorna undefined se o array estiver vazio
+        return null; // retorna undefined se o array estiver vazio
     }
 
     let maior = array[0]; // Assumimos que o primeiro alemento e maior
@@ -16,7 +16,7 @@ function encontrarMaiorNumero(array){
 
 export default encontrarMaiorNumero;
 
-/*
-const numeros = [10,3,5,8,2];
+
+/*const numeros = [10,3,5,8,2];
 const maiorNumero = encontrarMaiorNumero(numeros);
 console.log("o maior numero e:", maiorNumero);*/

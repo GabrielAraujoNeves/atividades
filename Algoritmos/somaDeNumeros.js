@@ -1,6 +1,6 @@
 function somarNumeros(arr){
      //verifica se o argumento passado e um array e se o array nao esta vazio
-    if(!Array.isArray(arr) || arr.length === 0){
+    if(Array.isArray(arr) && arr.length === 0){
         return 0
     }
 
