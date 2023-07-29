@@ -28,7 +28,7 @@ Para manter o trabalho seguro lembre de fazer commits regulares a cada algoritmo
 #### Para commit
 + git add .
 + git commit -m 'descrever o que foi feito'
-+ git push (na primeira vez que der o comando push, pode usar o `git push -u origin main` para registar o push e depois poder simplificar só com 'git push'
++ git push (na primeira vez que der o comando push, pode usar o `git push -u origin "nome da branch"` para registar o push e depois poder simplificar só com 'git push'
 
 OBS: Commits reguilares e descritivos serão cobrados para mander as boas práticas de desenvolvimento
 
