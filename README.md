@@ -15,7 +15,7 @@ SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 
 + Instalar `nyc` e configurar para conseguir visualizar a cobertura de testes(`npm install nyc`).
 
-+ Mudar para uma nova branch com o comando `git checkout -b 'resolusao'`
++ Mudar para uma nova branch com o comando `git checkout -b 'resolucao'`
 
 
 OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: somaDeNumeros.js, encontraMaiorNumero.js)
