@@ -10,4 +10,4 @@ function verificarPalindromo(str){
     return true;
 }
 
-console.log(verificarPalindromo("hello"));
+//console.log(verificarPalindromo("hello"));

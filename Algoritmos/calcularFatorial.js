@@ -1,5 +1,5 @@
-function calcularFatorial(n){
-    if (n === 0 && n === 1){
+function calcularFatorial(numero){
+    if (numero === 0 && numero === 1){
         return 1;
     }
 
@@ -12,4 +12,4 @@ function calcularFatorial(n){
 }
 
 const resultado = calcularFatorial(5);
-console.log(resultado);
+//console.log(resultado);

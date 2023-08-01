@@ -1,11 +1,11 @@
-function ordenarArray (){
-    let n = array.length;
+function ordenarArray(array){
+    let tamanhoArray= array.length;
     let troca;
 
     do{
         troca = false;
 
-        for(let i = 0; i < n - 1; i++){
+        for(let i = 0; i < tamanhoArray - 1; i++){
           if(array[i] > array[i + 1]){
           [array[i], array[i + 1]] = [array[i + 1], array[i]];
           troca = true;
@@ -19,4 +19,4 @@ function ordenarArray (){
 const array = [5, 2, 9, 1, 5];
 const arrayOrdenado = ordenarArray(array);
 
-console.log(arrayOrdenado);
+//console.log(arrayOrdenado);
