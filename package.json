@@ -4,8 +4,11 @@
   "description": "### Antes de Desenvolver Fazer o clone deste repositório no github(HTTPS ou SSH): HTTPS: `https://github.com/GabrielAraujoNeves/atividades.git` SSH: `git@github.com:GabrielAraujoNeves/atividades.git`",
   "main": "main.js",
   "type": "module",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +17,8 @@
     "chai": "^4.3.7",
     "mocha": "^10.2.0",
     "nyc": "^15.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
   }
 }
