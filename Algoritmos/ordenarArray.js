@@ -16,7 +16,9 @@ function ordenarArray(array){
     return array;
 }
 
-const array = [5, 2, 9, 1, 5];
-const arrayOrdenado = ordenarArray(array);
+export default ordenarArray;
+
+/*const array = [5, 2, 9, 1, 5];
+const arrayOrdenado = ordenarArray(array);*/
 
 //console.log(arrayOrdenado);
