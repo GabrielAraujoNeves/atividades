@@ -10,4 +10,5 @@ function verificarPalindromo(str){
     return true;
 }
 
+export default verificarPalindromo;
 //console.log(verificarPalindromo("hello"));

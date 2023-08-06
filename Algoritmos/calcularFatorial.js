@@ -4,12 +4,14 @@ function calcularFatorial(numero){
     }
 
     let resultado = 1
-    for(let i = 2; i <= n; i++){
+    for(let i = 2; i <= numero; i++){
         resultado *= i;
     }    
 
     return resultado;
 }
 
-const resultado = calcularFatorial(5);
-//console.log(resultado);
+export default calcularFatorial;
+
+/*const resultado = calcularFatorial(5);
+console.log(resultado);*/
