@@ -9,6 +9,8 @@ function converterCamelCase(snakeCase) {
     return camelCaseWords.join('');
   }
   
-  const snakeCaseString = "hello_world_in_js";
+export default converterCamelCase;
+
+  /*const snakeCaseString = "hello_world_in_js";
   const camelCaseString = converterCamelCase(snakeCaseString);
-  console.log(camelCaseString);
+  console.log(camelCaseString);*/
