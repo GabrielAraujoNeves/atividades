@@ -8,5 +8,5 @@ const pessoas = [
     {nome: "Ana", idade: 35}
 ];
 
-const pessoasOrdenadasPorIdade = ordenarObjetosPorPropriedade(pessoas, "idade");
-console.log(pessoasOrdenadasPorIdade);
+/*const pessoasOrdenadasPorIdade = ordenarObjetosPorPropriedade(pessoas, "idade");
+console.log(pessoasOrdenadasPorIdade);*/
