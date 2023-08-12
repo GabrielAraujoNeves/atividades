@@ -9,4 +9,4 @@ const pessoas = [
 ];
 
 /*const pessoasOrdenadasPorIdade = ordenarObjetosPorPropriedade(pessoas, "idade");
-console.log(pessoasOrdenadasPorIdade);*/
+console.log(pessoasOrdenadasPorIdade);*/ 
