@@ -3,7 +3,7 @@ import chai from "chai";
 const expect = chai.expect;
 
 
-describe('Remover Numeros duplicados', () => {
+Describe('Remover Numeros duplicados', () => {
     it('Remover numeros Duplicados', () => {
         const numeros = [1, 2, 2, 3, 3, 4, 5, 5];
         const resultado = removerDuplicadas(numeros);
